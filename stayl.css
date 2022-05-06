@@ -1,0 +1,7 @@
+.dis{
+    display: inline-block
+}
+
+.disSec{
+    display: block; height: 100px; width: 200px;  background-color: yellow;
+}
